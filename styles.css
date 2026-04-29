@@ -1,1 +1,56 @@
 /*  your css code here. If applicable */
+#sign{
+	background-color:blue;
+	color:white;
+	border:none;
+	padding:7px;
+}
+header>nav>ul{
+	display:flex;
+	list-style-type:none;
+	justify-content:flex-end;
+	gap:12px;
+	margin-right:1.8rem;
+}
+.outer{
+	border:.1px solid grey;
+	box-shadow:0px 0px 4px grey;
+}
+#cimg{
+	margin-left:10rem;
+	margin-bottom:-2.5rem;
+}
+input{
+	border-radius:15px;
+	margin-left:9.2rem;
+	width:24rem;
+	height:1.5rem; 
+	margin-top:-252px;
+	margin-bottom:14px;
+box-shadow:0 0 .9em grey;
+	border:none;
+}
+.button{
+	padding:4px;
+	margin-left:14.5rem;
+}
+button{
+	padding:4px;
+	border:none;
+	color:gray;
+	
+}
+footer>nav>ul{
+	display:flex;
+	list-style-type:none;
+	background-color:lightgray;
+	padding:11px;
+	gap:15px;
+	
+	}
+.righ{
+	display:flex;
+	margin-left:23rem;
+	gap:15px;
+	
+}
