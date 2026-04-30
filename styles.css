@@ -1,4 +1,11 @@
 /*  your css code here. If applicable */
+#mic{
+	margin-left:-1rem;
+	position:relative;
+	top:4px;
+}
+
+
 #sign{
 	background-color:blue;
 	color:white;
@@ -38,6 +45,7 @@ button{
 	padding:4px;
 	border:none;
 	color:gray;
+	margin-bottom:8rem;
 	
 }
 footer>nav>ul{
@@ -50,7 +58,7 @@ footer>nav>ul{
 	}
 .righ{
 	display:flex;
-	margin-left:23rem;
+	margin-left:21rem;
 	gap:15px;
 	
 }
